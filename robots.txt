@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://koqayicecee.pages.dev/sitemap.xml
